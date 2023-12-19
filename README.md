@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! Soy Rubén García! 👋
 
 <!--
 **rugarcia25/rugarcia25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌐 Sobre mí <a name="built-with"/>
+  <ul>
+    <li>🌱 Actualmente aprendiendo React y NodeJS</li>
+    <li>🔭 En constante evolución</li>
+    <li>💬 Me encanta esquiar y el senderismo</li>
+  </ul>
+  
+## 🔨 Tech Stack <a name="built-with"/>
+  <ul>
+	  <li>Front: JavaScript | ReactJS | TailwindCSS | Bootstrap</li>
+    <li>Back: PHP | Laravel | Java</li>
+    <li>MySQL | MongoDB</li>
+	  <li>VSCode | Git</li>
+  </ul>
