@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     <li>🌱 Actualmente aprendiendo React y NodeJS</li>
     <li>🔭 En constante evolución</li>
     <li>💬 Me encanta esquiar y el senderismo</li>
-    <li>📫 https://rgdev.netlify.app/</li>
   </ul>
   
 ## 🔨 Tecnologías <a name="built-with"/>
