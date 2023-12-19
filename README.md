@@ -20,9 +20,10 @@ Here are some ideas to get you started:
     <li>🌱 Actualmente aprendiendo React y NodeJS</li>
     <li>🔭 En constante evolución</li>
     <li>💬 Me encanta esquiar y el senderismo</li>
+    <li>📫 https://rgdev.netlify.app/</li>
   </ul>
   
-## 🔨 Tech Stack <a name="built-with"/>
+## 🔨 Tecnologías <a name="built-with"/>
   <ul>
 	  <li>Front: JavaScript | ReactJS | TailwindCSS | Bootstrap</li>
     <li>Back: PHP | Laravel | Java</li>
