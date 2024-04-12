@@ -1,31 +1,8 @@
-### Hola! Soy Rubén García! 👋
+# Hola! Soy Rubén García! 👋
 
-<!--
-**rugarcia25/rugarcia25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Rubén García, Desarrollador Web Full Stack. ¡Bienvenido a mi GitHub, donde puedes descubrir los proyectos que he ido creando a lo largo de mi aprendizaje y trayectoria.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🌐 Sobre mí <a name="built-with"/>
-  <ul>
-    <li>🌱 Actualmente aprendiendo React y NodeJS</li>
-    <li>🔭 En constante evolución</li>
-    <li>💬 Me encanta esquiar y el senderismo</li>
-  </ul>
-  
-## 🔨 Tecnologías <a name="built-with"/>
-  <ul>
-	  <li>Front: JavaScript | ReactJS | TailwindCSS | Bootstrap</li>
-    <li>Back: PHP | Laravel | Java</li>
-    <li>MySQL | MongoDB</li>
-	  <li>VSCode | Git</li>
-  </ul>
+- 🔭 Actualmente estoy profundizando en React y Node.JS para mejorar mis habilidades cómo FullStack y explorando nuevas tecnologías.
+- :computer: Línea de código más utilizada `npm run dev`
+- 📫 Quieres contactar conmigo? rgarciarios@gmail.com
+- ⚡ Sobre mí? Me encanta el deporte, sobretodo el esquí y soy muy fanático de Sekiro.
