@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Garcia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugarcia25" alt="rugarcia25" /></a> </p>
-
 - 🔭 I’m currently working on **myself, mastering JavaScript, practicing and delving into React/Angular/NodeJS**
 
 - 🌱 I’m currently learning **React/Angular/NodeJS**
