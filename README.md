@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React/Angular/NodeJS**
 - 👨‍💻 All of my projects are available at [https://rgdev.netlify.app/](https://rgdev.netlify.app/)
 - 📫 How to reach me **rgarciarios95@gmail.com**
-- ⚡ Fun fact **I love the Sekiro universe**
+- ⚡ **I love the Sekiro universe**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
