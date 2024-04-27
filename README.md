@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubén Garcia</h1>
+<h1 align="center">Hi👋 I'm Rubén Garcia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on **myself, mastering JavaScript, practicing and delving into React/Angular/NodeJS**
