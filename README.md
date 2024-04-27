@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **myself, mastering JavaScript, practicing and delving into React/Angular/NodeJS**
 - 🌱 I’m currently learning **React/Angular/NodeJS**
-- 👯 I’m looking to collaborate with **any company/team that wants to work with a junior web developer.**
 - 👨‍💻 All of my projects are available at [https://rgdev.netlify.app/](https://rgdev.netlify.app/)
 - 📫 How to reach me **rgarciarios95@gmail.com**
 - ⚡ Fun fact **I love the Sekiro universe**
